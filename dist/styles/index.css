@@ -176,7 +176,7 @@ a {
     height: 200%;
     top: -50%;
     left: -50%;
-    background: url("../../../public/assets/chevron-right.svg") var(--red) no-repeat center center;
+    background: url("../../public/assets/chevron-right.svg") var(--red) no-repeat center center;
     z-index: -1;
     transition: transform 350ms var(--timing-fn);
   }
@@ -230,7 +230,7 @@ a {
     height: 200%;
     top: -50%;
     left: -50%;
-    background: url("../../../public/assets/chevron-right.svg") var(--red) no-repeat center center;
+    background: url("../../public/assets/chevron-right.svg") var(--red) no-repeat center center;
     z-index: -1;
     transition: transform 350ms var(--timing-fn);
   }
