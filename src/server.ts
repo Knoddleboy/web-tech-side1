@@ -10,7 +10,7 @@ async function load() {
                 from: "inline",
                 config: {
                     serverMode: "full",
-                    url: "/db.sqlite3",
+                    url: "/web-tech-side1/db.sqlite3",
                     requestChunkSize: 4096,
                 },
             },
